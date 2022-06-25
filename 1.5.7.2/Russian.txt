@@ -30,7 +30,7 @@ Community_OpenButton=Сообщество
 Community_Youtube=YouTube
 Community_Discord=Discord
 Community_Reddit=Reddit
-Community_Forums=Форум (англ.)
+Community_Forums=Forums
 
 Credits_OpenButton=Создатели игры
 
