@@ -279,7 +279,7 @@ Tut_Use_Part=Нажимайте на детали,
 Tut_Use_Part=чтобы использовать их
 
 Tut_Ignition=Зажигание!
-Tut_Throttle=Регулируйте дроссель
+Tut_Throttle=Регулируйте тягу
 
 [Hub]
 Funds_Text=Бюджет: %funds%
